@@ -1,0 +1,168 @@
+Label: ddc_dnb_000
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 3.00
+
+Label: ddc_dnb_004
+  precision: 0.44
+  recall: 0.99
+  f1-score: 0.61
+  support: 127.00
+
+Label: ddc_dnb_020
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 1.00
+
+Label: ddc_dnb_150
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 6.00
+
+Label: ddc_dnb_230
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 1.00
+
+Label: ddc_dnb_300
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 4.00
+
+Label: ddc_dnb_310
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 2.00
+
+Label: ddc_dnb_320
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 2.00
+
+Label: ddc_dnb_330
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 22.00
+
+Label: ddc_dnb_350
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 1.00
+
+Label: ddc_dnb_500
+  precision: 0.42
+  recall: 0.35
+  f1-score: 0.38
+  support: 78.00
+
+Label: ddc_dnb_510
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 28.00
+
+Label: ddc_dnb_530
+  precision: 0.82
+  recall: 0.80
+  f1-score: 0.81
+  support: 87.00
+
+Label: ddc_dnb_540
+  precision: 0.60
+  recall: 0.10
+  f1-score: 0.17
+  support: 31.00
+
+Label: ddc_dnb_550
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 15.00
+
+Label: ddc_dnb_560
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 1.00
+
+Label: ddc_dnb_570
+  precision: 0.75
+  recall: 0.13
+  f1-score: 0.23
+  support: 45.00
+
+Label: ddc_dnb_590
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 3.00
+
+Label: ddc_dnb_600
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 16.00
+
+Label: ddc_dnb_610
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 2.00
+
+Label: ddc_dnb_620
+  precision: 0.42
+  recall: 0.57
+  f1-score: 0.49
+  support: 107.00
+
+Label: ddc_dnb_621.3
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 3.00
+
+Label: ddc_dnb_624
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 1.00
+
+Label: ddc_dnb_660
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 1.00
+
+Label: ddc_dnb_710
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 1.00
+
+Label: ddc_dnb_720
+  precision: 0.00
+  recall: 0.00
+  f1-score: 0.00
+  support: 3.00
+
+accuracy: 0.50
+Label: macro avg
+  precision: 0.13
+  recall: 0.11
+  f1-score: 0.10
+  support: 591.00
+
+Label: weighted avg
+  precision: 0.44
+  recall: 0.50
+  f1-score: 0.42
+  support: 591.00
