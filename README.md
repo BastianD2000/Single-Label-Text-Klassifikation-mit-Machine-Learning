@@ -95,5 +95,6 @@ abgelegt werden und sein Pfad muss in „main_classify.py“ in Zeile 20 angegeb
 Nun kann „main_classify.py“ ausgeführt werden und man erhält in der Konsole ein Ergebnis.
 
 6. Verwendete Hilfsmittel
+   
 Der Code wurde mit Unterstützung von ChatGPT (https://chatgpt.com/) erstellt.
 Verwendet wird die Python-Bibliothek „sklearn“.
