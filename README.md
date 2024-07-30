@@ -1,3 +1,9 @@
+-> XML mit Metadaten aus z.B. https://tuprints.ulb.tu-darmstadt.de/ exportieren
+-> Hier alles als ZIP-File downloaden und entpacken
+-> Texte aus XML downloaden und vorverarbeiten
+-> Modell trainieren
+-> Neue Texte klassifzieren
+
 1. Zielsetzung
    
 Ziel des Projektes war es ein Programm zu schreiben, welches unter Verwendung von Werkzeugen 
