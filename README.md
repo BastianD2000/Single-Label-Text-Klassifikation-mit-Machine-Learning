@@ -1,3 +1,5 @@
+Entstanden im Rahmen eines Projektes im Bachelor Studiengang Information Science an der Hochschule Darmstadt (https://h-da.de/studium/studienangebot/studiengaenge/information-science-und-informatik/information-science-bsc)
+
 -> XML mit Metadaten aus z.B. https://tuprints.ulb.tu-darmstadt.de/ exportieren
 -> Dateien als ZIP-File downloaden und entpacken
 -> Texte aus XML downloaden und vorverarbeiten
