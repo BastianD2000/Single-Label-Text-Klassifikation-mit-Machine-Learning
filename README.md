@@ -1,5 +1,5 @@
 -> XML mit Metadaten aus z.B. https://tuprints.ulb.tu-darmstadt.de/ exportieren
--> Hier alles als ZIP-File downloaden und entpacken
+-> Dateien als ZIP-File downloaden und entpacken
 -> Texte aus XML downloaden und vorverarbeiten
 -> Modell trainieren
 -> Neue Texte klassifzieren
