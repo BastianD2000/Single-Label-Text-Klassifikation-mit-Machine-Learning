@@ -91,7 +91,7 @@ klassifizierenden Text wird nach „pdf_path=“ in Zeile 20 angegeben.
 Nachdem die Schritte zur Vorbereitung der Trainingsdaten befolgt wurden (siehe Kapitel 2), muss 
 zuerst „main_train.py“ ausgeführt werden um das Modell zu trainieren. 
 Anschließend muss ein neuer zu klassifizierender Text im PDF-Format im Hauptordner „Projekt“ 
-abgelegt werden und sein Pfad muss in „main_classify.py“ in Zeile 20 angegeben werden (zu Testund Demonstrationszwecken liegt „neuer_text.pdf“ im Ordner „Projekt“ bereit). 
+abgelegt werden und sein Pfad muss in „main_classify.py“ in Zeile 20 angegeben werden (zu Test- und Demonstrationszwecken liegt „neuer_text.pdf“ im Ordner „Projekt“ bereit). 
 Nun kann „main_classify.py“ ausgeführt werden und man erhält in der Konsole ein Ergebnis.
 
 6. Verwendete Hilfsmittel
